@@ -1,0 +1,1 @@
+Neste exemplo, o número que o usuário precisa adivinhar está fixo no código. O programa irá pedir ao usuário para tentar adivinhar e, a cada tentativa, fornecer dicas ("maior" ou "menor") até que o número correto seja adivinhado.
